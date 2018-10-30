@@ -1,10 +1,11 @@
 OS:centos 7
+
 python 版本：3.5
 
 
 运行方式：
 
-1.执行执行main脚本，会调用check_active_ip.py  excel.py（excel依赖于check_active_ip.py的执行）
+1.直接执行main脚本，会调用check_active_ip.py  excel.py（excel依赖于check_active_ip.py的执行）
 
 2.本脚本已制作成“包”的形式，可在上级目录执行： python  check_active_ip （为方便以后使用该环境，制作成包）
 
